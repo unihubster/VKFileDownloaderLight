@@ -1,4 +1,4 @@
-#VK File Downloader
+# VK File Downloader
 
 ## Main purpose
 This is Java console application.
