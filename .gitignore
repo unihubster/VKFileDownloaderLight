@@ -1,0 +1,13 @@
+
+.idea/*
+.settings/*
+target/*
+out/*
+bin/*
+
+*.class
+*.war
+#*.jar
+*.ear
+
+src/test/java/*
